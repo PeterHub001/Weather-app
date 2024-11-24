@@ -8,5 +8,5 @@
 .app{
   min-height: 100vh;
   display: grid;
-  background-color: red;
+  background-color: rgb(189, 181, 188);
 }
